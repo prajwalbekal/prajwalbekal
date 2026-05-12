@@ -1,6 +1,10 @@
 # Hi, I'm Prajwal Bekal
 
-M.Sc. Mechatronics and Cyber-Physical Systems student at Deggendorf Institute of Technology, focused on test automation, sensor data analysis, signal processing, and Python-based engineering tools.
+M.Sc. Mechatronics and Cyber-Physical Systems student at Deggendorf Institute of Technology, focused on engineering automation, sensor data analysis, signal processing, and Python-based test tools.
+
+[![Python](https://img.shields.io/badge/Python-Engineering%20Automation-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Signal Processing](https://img.shields.io/badge/Signal%20Processing-FFT%20%7C%20DAQ%20%7C%20Sensors-0A66C2)](https://github.com/prajwalbekal/rfa-test-analyser)
+[![Focus](https://img.shields.io/badge/Focus-Test%20Engineering%20%7C%20Mechatronics-2E7D32)](https://github.com/prajwalbekal)
 
 ## What I Work On
 
@@ -12,7 +16,7 @@ M.Sc. Mechatronics and Cyber-Physical Systems student at Deggendorf Institute of
 
 ## Featured Project
 
-### RFA Test Data Analyser
+### [RFA Test Data Analyser](https://github.com/prajwalbekal/rfa-test-analyser)
 
 Automated multi-channel sensor analysis pipeline for rotating component test engineering.
 
@@ -21,11 +25,9 @@ Automated multi-channel sensor analysis pipeline for rotating component test eng
 - Detects abnormal frequency peaks, including bearing-defect signatures
 - Generates a structured PDF test report with plots and pass/fail verdicts
 
-Repository: https://github.com/prajwalbekal/rfa-test-analyser
-
 ## Technical Stack
 
-Python, NumPy, Pandas, SciPy, Matplotlib, ReportLab, signal processing, DAQ-style sensor workflows, technical reporting, mechanical test validation.
+`Python` `NumPy` `Pandas` `SciPy` `Matplotlib` `ReportLab` `FFT` `DAQ workflows` `Signal processing` `Technical reporting`
 
 ## Current Focus
 
@@ -33,6 +35,6 @@ I am building a stronger portfolio around engineering automation, test systems, 
 
 ## Contact
 
-- GitHub: https://github.com/prajwalbekal
-- Email: prajwalbekal9@gmail.com
+- GitHub: [github.com/prajwalbekal](https://github.com/prajwalbekal)
+- Email: `prajwalbekal9@gmail.com`
 - LinkedIn: add your LinkedIn URL here
