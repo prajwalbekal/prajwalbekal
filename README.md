@@ -4,7 +4,7 @@ M.Sc. Mechatronics and Cyber-Physical Systems student at Deggendorf Institute of
 
 [![Python](https://img.shields.io/badge/Python-Engineering%20Automation-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Signal Processing](https://img.shields.io/badge/Signal%20Processing-FFT%20%7C%20DAQ%20%7C%20Sensors-0A66C2)](https://github.com/prajwalbekal/rfa-test-analyser)
-[![GNC](https://img.shields.io/badge/GNC-Control%20%7C%20EKF%20%7C%20Simulation-6A1B9A)](https://github.com/prajwalbekal/gnc-engineering-student-projects)
+[![GNC](https://img.shields.io/badge/GNC-Control%20%7C%20EKF%20%7C%20Simulation-6A1B9A)](https://github.com/prajwalbekal/GUIDANCE-NAVIGATION-CONTROL)
 [![Focus](https://img.shields.io/badge/Focus-Test%20Engineering%20%7C%20Mechatronics%20%7C%20Aerospace-2E7D32)](https://github.com/prajwalbekal)
 
 ## What I Work On
@@ -28,7 +28,7 @@ Automated multi-channel sensor analysis pipeline for rotating component test eng
 - Detects abnormal frequency peaks, including bearing-defect signatures
 - Generates a structured PDF test report with plots and pass/fail verdicts
 
-### [GNC Engineering Student Projects](https://github.com/prajwalbekal/gnc-engineering-student-projects)
+### [GNC Engineering Student Projects](https://github.com/prajwalbekal/GUIDANCE-NAVIGATION-CONTROL)
 
 Portfolio-ready Guidance, Navigation, and Control projects built from scratch for engineering students.
 
@@ -49,4 +49,4 @@ I am building a stronger portfolio around engineering automation, test systems, 
 
 - GitHub: [github.com/prajwalbekal](https://github.com/prajwalbekal)
 - Email: `prajwalbekal9@gmail.com`
-- LinkedIn: add your LinkedIn URL here
+- LinkedIn: [linkedin.com/in/prajwal-bekal-5117b1150](https://de.linkedin.com/in/prajwal-bekal-5117b1150)
