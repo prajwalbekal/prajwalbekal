@@ -3,7 +3,7 @@
 M.Sc. Mechatronics and Cyber-Physical Systems student at Deggendorf Institute of Technology, focused on engineering automation, sensor data analysis, control systems, signal processing, and Python-based test tools.
 
 [![Python](https://img.shields.io/badge/Python-Engineering%20Automation-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Signal Processing](https://img.shields.io/badge/Signal%20Processing-FFT%20%7C%20DAQ%20%7C%20Sensors-0A66C2)](https://github.com/prajwalbekal/rfa-test-analyser)
+[![Signal Processing](https://img.shields.io/badge/Signal%20Processing-FFT%20%7C%20DAQ%20%7C%20Sensors-0A66C2)](https://github.com/prajwalbekal/rotating-component-test-analyser)
 [![GNC](https://img.shields.io/badge/GNC-Control%20%7C%20EKF%20%7C%20Simulation-6A1B9A)](https://github.com/prajwalbekal/GUIDANCE-NAVIGATION-CONTROL)
 [![Focus](https://img.shields.io/badge/Focus-Test%20Engineering%20%7C%20Mechatronics%20%7C%20Aerospace-2E7D32)](https://github.com/prajwalbekal)
 
@@ -19,7 +19,7 @@ M.Sc. Mechatronics and Cyber-Physical Systems student at Deggendorf Institute of
 
 ## Featured Projects
 
-### [RFA Test Data Analyser](https://github.com/prajwalbekal/rfa-test-analyser)
+### [Rotating Component Test Data Analyser](https://github.com/prajwalbekal/rotating-component-test-analyser)
 
 Automated multi-channel sensor analysis pipeline for rotating component test engineering.
 
